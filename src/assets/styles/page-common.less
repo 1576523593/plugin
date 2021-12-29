@@ -1,0 +1,87 @@
+.sun-paper_page-container {
+  height: auto;
+  transition: all 0.3s;
+}
+.sun-paper_container-absolute {
+  position: relative;
+}
+.sun-paper_page-header {
+  height: auto;
+  box-sizing: border-box;
+  padding: 16px 24px;
+  padding-top: 12px;
+  background-color: #fff;
+
+  &.has-tab {
+    padding-bottom: 0px;
+    .ant-tabs-bar {
+      margin-top: 16px;
+      margin-bottom: 0px;
+      border: none;
+      text-align: left;
+    }
+  }
+  .ant-breadcrumb {
+    text-align: left;
+  }
+}
+
+.sun-paper_page-content-wrapper {
+  position: relative;
+  padding: 10px 20px;
+}
+
+.sun-paper_page-content  {
+  padding: 16px;
+}
+
+.sun-paper_page-content-wrapper, .sun-paper_page-content {
+  height: auto;
+  box-sizing: border-box;
+}
+
+.sun-paper_page-content {
+  min-height: 100vh;
+  background-color: #fff;
+}
+
+.sun-paper_table-content-wrapper {
+  margin-top: 24px;
+  .ant-btn {
+    height: 22px;
+  }
+}
+
+.sun-paper_table-operation-row {
+  width: 100%;
+}
+
+.sun-paper_table-cell-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sun-paper_page-footer-container {
+  padding: 24px 0 24px;
+  text-align: center;
+}
+
+.sun-paper_page-operation-wrapper {
+  position: fixed;
+  left: 220px;
+  right: 0;
+  bottom: 0;
+  height: 56px;
+  line-height: 56px;
+  box-sizing: border-box;
+  padding: 0 24px;
+  background-color: #fff;
+  text-align: right;
+  z-index: 999;
+  box-shadow: 1px -1px 4px rgba(0, 21, 41, .08);
+
+  button {
+    margin-left: 24px;
+  }
+}

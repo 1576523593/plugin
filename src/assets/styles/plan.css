@@ -1,0 +1,17 @@
+.down .ant-calendar-range{
+    width: 250px !important;
+}
+.down .ant-calendar-range-part{
+    width: 100%;
+}
+.down .ant-calendar-range-right{
+    display: none;
+}
+.down .ant-calendar-input-wrap{
+    display: none;
+}
+
+.down .ant-calendar .ant-calendar-panel .ant-calendar-date-panel .ant-calendar-header{
+    opacity: 0;
+    pointer-events: none;
+}

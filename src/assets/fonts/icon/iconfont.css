@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1060164 */
+  src: url('//at.alicdn.com/t/font_1060164_qsfp5tz3oc.eot');
+  src: url('//at.alicdn.com/t/font_1060164_qsfp5tz3oc.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1060164_qsfp5tz3oc.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1060164_qsfp5tz3oc.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1060164_qsfp5tz3oc.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1060164_qsfp5tz3oc.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconxwfb_kzt_ic:before {
+  content: "\e603";
+}
+
+.iconsy_kzt_ic:before {
+  content: "\e604";
+}
+
+.icondsyy_kzt_ic:before {
+  content: "\e605";
+}
+
+.iconfkjy_kzt_ic:before {
+  content: "\e606";
+}
+.iconjdyfw_cus_service:before {
+  content: "\e629";
+}
+
+.iconhome_baoyang:before {
+  content: "\e620";
+}
+.iconrepaire:before {
+  content: "\e652";
+}
+
+
